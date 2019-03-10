@@ -16,7 +16,7 @@ class App extends Component {
           <p><Counter /></p>
           4+ Personen
           <p><Counter /></p>
-          </header>
+        </header>
       </div>
     );
   }
