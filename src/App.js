@@ -26,7 +26,7 @@ class Counter extends Component {
   state = {
     count: 0
   }
-  handleClick = () => {
+  handleClick() {
     this.setState(({count}) => ({
       count: count + 1
     }));
