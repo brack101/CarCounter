@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Autocounter</h1>
+          <h1>CarCounter</h1>
           1 Person
           <p><Counter /></p>
           2 Personen
